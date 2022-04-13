@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { View, Text, StyleSheet,Image, TouchableOpacity } from "react-native";
 
+//Teste de subida para o git
 class App extends Component{
   
   constructor(propos){
